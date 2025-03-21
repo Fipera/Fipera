@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fipera&label=Profile%20views&color=grey&style=flat)
 
 <!-- Wavy SVG Divider -->
-<img src="https://raw.githubusercontent.com/fipera/fipera/main/wave-dark-top.svg" 
+<img src="https://raw.githubusercontent.com/fipera/fipera/main/wave.svg" 
      alt="wave-divider" 
      style="width:100%; margin-bottom:-5px;" />
 
