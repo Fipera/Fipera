@@ -1,41 +1,197 @@
-<h1 align="center">Hi 👋, I'm Filipe Bello</h1>
-<h3 align="center">Junior Fullstack Developer | Web Scraping & Automation</h3>
+<!--
+     ██████╗ ███████╗██╗     ██╗██████╗ ███████╗██████╗ 
+    ██╔═══██╗██╔════╝██║     ██║██╔══██╗██╔════╝██╔══██╗
+    ██║   ██║█████╗  ██║     ██║██████╔╝█████╗  ██████╔╝
+    ██║   ██║██╔══╝  ██║     ██║██╔══██╗██╔══╝  ██╔══██╗
+    ╚██████╔╝███████╗███████╗██║██║  ██║███████╗██║  ██║
+     ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fipera&label=Profile%20views&color=0e75b6&style=flat" alt="fipera" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fipera" alt="fipera" /></a> </p>
+# Hi 👋, I'm Filipe Bello  
+**Junior Fullstack Developer | Web Scraping & Automation**  
 
-- 🔭 I’m currently working on **ConsigBot a tool that automates and optimizes processes related to financial consulting, making loan simulations and customer interactions more efficient.**
+[![Profile Views](https://komarev.com/ghpvc/?username=fipera&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fipera)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fipera)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Right now, I’m focusing on React Native and NestJS to improve my skills in mobile development and backend architecture.**
+</div>
 
-- 👯 I’m looking to collaborate on **I'm interested in collaborating on automation projects, web development (both frontend and backend), and workflow automation using tools like n8n. If you have an exciting project in these areas, let’s connect!**
+---
 
-- 🤝 I’m looking for help with **I'm always looking to improve my skills in optimizing automation flows and integrating different systems efficiently. If you have experience with advanced automation strategies, I’d love to exchange ideas!**
+<details open>
+<summary><strong>🇺🇸 English</strong> (click to expand/collapse)</summary>
 
-- Portfolio [Coming soon!](Coming soon!)
+### 🔭 Currently Working On
+**ConsigBot** – a tool that automates and optimizes processes related to financial consulting, making loan simulations and customer interactions more efficient.
 
-- 📝 I regularly read articles on: [I enjoy keeping up with tech blogs, automation trends, and discussions on Reddit.](I enjoy keeping up with tech blogs, automation trends, and discussions on Reddit.)
+### 🌱 Currently Learning
+Focusing on **React Native** and **NestJS** for mobile development and backend architecture.
 
-- 💬 More about me **🎮 How do I recover after finishing Sekiro for the 3th time? (Seriously, I need a new challenge...)**
+### 👯 Looking to Collaborate On
+Interested in **automation projects**, **web development** (frontend & backend), and **workflow automation** using tools like **n8n**. Feel free to reach out if you have an exciting project!
 
-- 📫 How to reach me **filipegebarabello.workspace@gmail.com**
+### 🤝 Looking for Help With
+Always looking to **optimize automation flows** and **integrate systems efficiently**. If you have experience with advanced automation strategies, let’s connect!
 
-- 📄 Know about my experiences [💻 Developer at a Financial Institution (8 months) Built automation solutions using TypeScript, Puppeteer, and n8n to streamline processes and API integrations. Developed and maintained frontend and backend applications using React, Express, and Node.js. 🛠 Currently working with Automation Platforms Developing automation scripts and integrations using Python, Jinja, Selenium, Requests, and Flask to enhance workflow efficiency.](💻 Developer at a Financial Institution (8 months) Built automation solutions using TypeScript, Puppeteer, and n8n to streamline processes and API integrations. Developed and maintained frontend and backend applications using React, Express, and Node.js. 🛠 Currently working with Automation Platforms Developing automation scripts and integrations using Python, Jinja, Selenium, Requests, and Flask to enhance workflow efficiency.)
+### Portfolio
+[Coming soon!](#)
 
-- ⚡ Fun fact **I love automating boring stuff just to save a few seconds. Totally worth it!**
+### 📝 I Regularly Read Articles On
+Keeping up with **tech blogs, automation trends**, and **Reddit** discussions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/filipe gebara bello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe gebara bello" height="30" width="40" /></a>
+### 💬 More About Me
+**🎮 How do I recover after finishing Sekiro for the 3rd time?** (Seriously, I need a new challenge...)
+
+### 📫 How to Reach Me
+**filipegebarabello.workspace@gmail.com**
+
+### 📄 Experience
+- **Developer at a Financial Institution (8 months)**  
+  Built automation solutions using **TypeScript**, **Puppeteer**, and **n8n** to streamline processes and API integrations.  
+  Developed and maintained **frontend and backend** applications using **React**, **Express**, and **Node.js**.
+
+- **Currently Working with Automation Platforms**  
+  Developing **automation scripts** and integrations using **Python, Jinja, Selenium, Requests**, and **Flask** to enhance workflow efficiency.
+
+### ⚡ Fun Fact
+I love automating boring stuff just to save a few seconds. Totally worth it!
+
+</details>
+
+---
+
+<details>
+<summary><strong>🇧🇷 Português</strong> (clique para expandir/ocultar)</summary>
+
+### 🔭 Atualmente Trabalhando Em
+**ConsigBot** – uma ferramenta que automatiza e otimiza processos relacionados a consultoria financeira, tornando simulações de empréstimos e interações com clientes mais eficientes.
+
+### 🌱 Atualmente Aprendendo
+Estudando **React Native** e **NestJS** para melhorar minhas habilidades em desenvolvimento mobile e arquitetura backend.
+
+### 👯 Busco Colaborar Em
+Interessado em projetos de **automação**, **desenvolvimento web** (frontend & backend) e **automação de fluxos** usando ferramentas como **n8n**. Fique à vontade para entrar em contato se tiver um projeto bacana!
+
+### 🤝 Preciso de Ajuda Com
+Sempre buscando **otimizar fluxos de automação** e **integrar sistemas de forma eficiente**. Se você tem experiência com estratégias avançadas de automação, vamos trocar ideias!
+
+### Portfólio
+[Em breve!](#)
+
+### 📝 Leio Artigos Regularmente Em
+Acompanho **blogs de tecnologia, tendências de automação** e discussões no **Reddit**.
+
+### 💬 Mais Sobre Mim
+**🎮 Como eu me recupero depois de zerar Sekiro pela 3ª vez?** (Sério, preciso de um desafio novo...)
+
+### 📫 Como Me Contatar
+**filipegebarabello.workspace@gmail.com**
+
+### 📄 Experiência
+- **Desenvolvedor em uma Instituição Financeira (8 meses)**  
+  Criei soluções de automação usando **TypeScript**, **Puppeteer** e **n8n** para simplificar processos e integrações de API.  
+  Desenvolvi e mantive aplicações **frontend e backend** usando **React**, **Express** e **Node.js**.
+
+- **Atualmente Trabalhando com Plataformas de Automação**  
+  Desenvolvendo **scripts de automação** e integrações usando **Python, Jinja, Selenium, Requests** e **Flask** para aumentar a eficiência dos fluxos de trabalho.
+
+### ⚡ Curiosidade
+Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito a pena!
+
+</details>
+
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/filipe-gebara-bello" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin: filipe gebara bello" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fipera&show_icons=true&locale=en&layout=compact" alt="fipera" /></p>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fipera&show_icons=true&locale=en" alt="fipera" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fipera&" alt="fipera" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fipera&show_icons=true&locale=en&layout=compact" alt="fipera's Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fipera&show_icons=true&locale=en" alt="fipera's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fipera" alt="fipera's GitHub Streak" />
+</p>
