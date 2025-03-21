@@ -4,7 +4,8 @@
   color: white; 
   padding: 20px; 
   margin: 0 auto;
-">
+">![image](https://github.com/user-attachments/assets/282ccd48-3e24-4125-b67d-a61584033d90)
+
 
 
 <!-- 
@@ -216,6 +217,5 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fipera&theme=github-dark-blue" alt="fipera's GitHub Streak" />
 </p>
 
-<img src="https://raw.githubusercontent.com/fipera/fipera/main/wave-dark-bottom.svg" alt="wave-divider" style="width:100%; margin-top:-5px;" />
 
 </div>
