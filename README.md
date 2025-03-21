@@ -211,4 +211,28 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
 </p>
 
 
+<div align="center">
+  <!-- Certificado 1 -->
+  <a href="2anoMaratona-1.pdf" target="_blank">
+    <img src="2anoMaratona-1.png" 
+         alt="Certificado 2º Ano Maratona" 
+         style="
+           width: 400px;       /* Aumente para 400px */
+           margin: 20px 40px;  /* Espaçamento vertical (20px) e horizontal (40px) */
+           border-radius: 8px;
+         " />
+  </a>
+  
+  <!-- Certificado 2 -->
+  <a href="3anoMaratona-1.pdf" target="_blank">
+    <img src="3anoMaratona-1.png" 
+         alt="Certificado 3º Ano Maratona" 
+         style="
+           width: 400px;       /* Mesmo tamanho da primeira */
+           margin: 20px 40px;  /* Mesmo espaçamento da primeira */
+           border-radius: 8px;
+         " />
+  </a>
+</div>
+
 </div>
