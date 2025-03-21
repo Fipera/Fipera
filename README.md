@@ -1,3 +1,12 @@
+<!-- Início do README -->
+<div style="
+  background-color: black; 
+  color: white; 
+  padding: 20px; 
+  margin: 0 auto;
+">
+
+
 <!-- 
    ██████╗ ███████╗██╗     ██╗██████╗ ███████╗██████╗ 
   ██╔═══██╗██╔════╝██║     ██║██╔══██╗██╔════╝██╔══██╗
@@ -201,6 +210,7 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fipera&show_icons=true&locale=en&theme=github_dark" alt="fipera's GitHub Stats" />
 </p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fipera&theme=github-dark-blue" alt="fipera's GitHub Streak" />
