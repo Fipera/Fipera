@@ -213,7 +213,7 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
 
 <div align="center">
   <!-- Certificado 1 -->
-  <a href="2anoMaratona-1.pdf" target="_blank">
+  <a href="2anoMaratona.pdf" target="_blank">
     <img src="2anoMaratona-1.png" 
          alt="Certificado 2º Ano Maratona" 
          style="
@@ -224,7 +224,7 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
   </a>
   
   <!-- Certificado 2 -->
-  <a href="3anoMaratona-1.pdf" target="_blank">
+  <a href="3anoMaratona.pdf" target="_blank">
     <img src="3anoMaratona-1.png" 
          alt="Certificado 3º Ano Maratona" 
          style="
