@@ -9,7 +9,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fipera&color=blue&style=for-the-badge&label=👁️+Views)
+![Views](https://komarev.com/ghpvc/?username=fipera&label=⚡+Views&color=000000&style=for-the-badge)
+
+
 
 
 
