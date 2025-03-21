@@ -12,11 +12,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fipera&label=Profile%20views&color=grey&style=flat)
 
 
-<!-- Animated GIF (optional) -->
-<img src="screen1.gif" 
-     alt="Cyberpunk animation" 
-     style="width:300px; border-radius:10px;" />
-
+<div style="background-color: black; padding: 20px;">
+  <img src="screen1.gif"
+       alt="Mario Animation"
+       style="width: 100%; display: block; border-radius: 10px; margin: 0 auto;" />
+</div>
 
 # Hi 👋, I'm Filipe Bello  
 **Junior Fullstack Developer | Web Scraping & Automation**  
