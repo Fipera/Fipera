@@ -1,13 +1,3 @@
-<!-- Início do README -->
-<div style="
-  background-color: black; 
-  color: white; 
-  padding: 20px; 
-  margin: 0 auto;
-">![image](https://github.com/user-attachments/assets/282ccd48-3e24-4125-b67d-a61584033d90)
-
-
-
 <!-- 
    ██████╗ ███████╗██╗     ██╗██████╗ ███████╗██████╗ 
   ██╔═══██╗██╔════╝██║     ██║██╔══██╗██╔════╝██╔══██╗
