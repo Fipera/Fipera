@@ -13,7 +13,7 @@
 
 
 <!-- Animated GIF (optional) -->
-<img src="https://raw.githubusercontent.com/fipera/fipera/main/cyberpunk.gif" 
+<img src="screen1.gif" 
      alt="Cyberpunk animation" 
      style="width:300px; border-radius:10px;" />
 
