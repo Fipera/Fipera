@@ -12,10 +12,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fipera&label=Profile%20views&color=grey&style=flat)
 
 <!-- Wavy SVG Divider -->
-<img src="https://raw.githubusercontent.com/fipera/fipera/main/wave-dark-top.svg" alt="wave-divider" style="width:100%; margin-bottom:-5px;" />
+<img src="https://raw.githubusercontent.com/fipera/fipera/main/wave-dark-top.svg" 
+     alt="wave-divider" 
+     style="width:100%; margin-bottom:-5px;" />
 
 <!-- Animated GIF (optional) -->
-<img src="https://raw.githubusercontent.com/fipera/fipera/main/cyberpunk.gif" alt="Cyberpunk animation" style="width:300px; border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/fipera/fipera/main/cyberpunk.gif" 
+     alt="Cyberpunk animation" 
+     style="width:300px; border-radius:10px;" />
+
 
 # Hi 👋, I'm Filipe Bello  
 **Junior Fullstack Developer | Web Scraping & Automation**  
