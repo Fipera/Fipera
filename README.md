@@ -116,8 +116,8 @@ Adoro automatizar tarefas chatas só para economizar alguns segundos. Vale muito
 
 <h3>Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/filipe-gebara-bello" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin: filipe gebara bello" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/filipe-gebara-bello-b44197234/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin: www.linkedin.com/in/filipe-gebara-bello-b44197234" height="30" width="40"/>
 </a>
 
 ---
