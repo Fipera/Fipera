@@ -53,11 +53,12 @@ I build APIs, system integrations and automations that remove recurring manual w
 | Area | Tools |
 | --- | --- |
 | Languages | Go, Python, TypeScript, JavaScript, PHP, SQL |
-| Back end | Node.js (Fastify, Express), Flask, REST APIs |
+| Back end | Node.js (Fastify, Express), Flask, Django, REST APIs |
 | Data | PostgreSQL, MongoDB, Oracle, Supabase, Firebase |
 | Automation | n8n, Selenium, Requests, BeautifulSoup, Pandas, Puppeteer |
 | Front end & mobile | React, Next.js, React Native |
-| Ops | Docker, Git, Linux, Zabbix, Grafana, Loki |
+| Testing & CI/CD | pytest, GitHub Actions, Docker |
+| Ops | Git, Linux, Zabbix, Grafana, Loki |
 
 ### Awards
 
@@ -103,11 +104,12 @@ Desenvolvo APIs, integrações entre sistemas e automações que eliminam trabal
 | Área | Ferramentas |
 | --- | --- |
 | Linguagens | Go, Python, TypeScript, JavaScript, PHP, SQL |
-| Back-end | Node.js (Fastify, Express), Flask, APIs REST |
+| Back-end | Node.js (Fastify, Express), Flask, Django, APIs REST |
 | Dados | PostgreSQL, MongoDB, Oracle, Supabase, Firebase |
 | Automação | n8n, Selenium, Requests, BeautifulSoup, Pandas, Puppeteer |
 | Front-end e mobile | React, Next.js, React Native |
-| Operação | Docker, Git, Linux, Zabbix, Grafana, Loki |
+| Testes e CI/CD | pytest, GitHub Actions, Docker |
+| Operação | Git, Linux, Zabbix, Grafana, Loki |
 
 ### Premiações
 
