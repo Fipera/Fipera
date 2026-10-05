@@ -13,7 +13,7 @@
 
 # Hi 👋, I'm Filipe Bello
 
-**Software Developer | APIs, Integrations & Automation**
+**Full-Stack Developer | APIs, Integrations & Automation**
 
 [LinkedIn](https://www.linkedin.com/in/filipe-gebara-bello-main/) · [filipegebarabello.workspace@gmail.com](mailto:filipegebarabello.workspace@gmail.com)
 
@@ -26,16 +26,17 @@
 
 ### About
 
-I build APIs, system integrations and automations that remove recurring manual work. Most of my work is in **Go**, **Python** and **TypeScript**, on top of **PostgreSQL**, **MongoDB** and **Oracle**.
+I build APIs, system integrations and automations that remove recurring manual work. Most of my work is in **Go**, **Python**, **PHP** and **TypeScript**, on top of **PostgreSQL**, **MongoDB** and **Oracle**.
 
 ### Now
 
 **Developer at Semeq** (industrial predictive maintenance)
 
-- APIs in Go, PHP and Python for new projects, with technical documentation
+- APIs in Go, PHP and Python (Django) for new projects, with technical documentation
 - Integration middleware between SAP and internal APIs
 - Internal systems and automations for several departments
-- A device diagnostics product that gives visibility into equipment health
+- A device diagnostics product that identifies the type of problem and suggests the fix, cutting daily service desk analysis from about 2 hours to 10 minutes
+- Automated tests (pytest), Docker and automated deploys with GitHub Actions
 - Logging and observability with Zabbix, Grafana and Loki
 
 ### Before
@@ -57,6 +58,7 @@ I build APIs, system integrations and automations that remove recurring manual w
 | Data | PostgreSQL, MongoDB, Oracle, Supabase, Firebase |
 | Automation | n8n, Selenium, Requests, BeautifulSoup, Pandas, Puppeteer |
 | Front end & mobile | React, Next.js, React Native |
+| Integrations | SAP, OpenAI API, Power BI |
 | Testing & CI/CD | pytest, GitHub Actions, Docker |
 | Ops | Git, Linux, Zabbix, Grafana, Loki |
 
@@ -77,16 +79,17 @@ I love automating boring stuff just to save a few seconds. Totally worth it.
 
 ### Sobre
 
-Desenvolvo APIs, integrações entre sistemas e automações que eliminam trabalho manual recorrente. Trabalho principalmente com **Go**, **Python** e **TypeScript**, sobre **PostgreSQL**, **MongoDB** e **Oracle**.
+Desenvolvo APIs, integrações entre sistemas e automações que eliminam trabalho manual recorrente. Trabalho principalmente com **Go**, **Python**, **PHP** e **TypeScript**, sobre **PostgreSQL**, **MongoDB** e **Oracle**.
 
 ### Hoje
 
 **Desenvolvedor na Semeq** (manutenção preditiva industrial)
 
-- APIs em Go, PHP e Python para projetos novos, com documentação técnica
+- APIs em Go, PHP e Python (Django) para projetos novos, com documentação técnica
 - Middleware de integração entre SAP e APIs internas
 - Sistemas e automações para diversos setores internos
-- Produto de diagnóstico de dispositivos, que dá visibilidade sobre a saúde dos equipamentos
+- Produto de diagnóstico de dispositivos que identifica o tipo de problema e sugere a ação, reduzindo a análise diária do service desk de cerca de 2 horas para 10 minutos
+- Testes automatizados (pytest), Docker e deploy automático com GitHub Actions
 - Logs e observabilidade com Zabbix, Grafana e Loki
 
 ### Antes
@@ -108,6 +111,7 @@ Desenvolvo APIs, integrações entre sistemas e automações que eliminam trabal
 | Dados | PostgreSQL, MongoDB, Oracle, Supabase, Firebase |
 | Automação | n8n, Selenium, Requests, BeautifulSoup, Pandas, Puppeteer |
 | Front-end e mobile | React, Next.js, React Native |
+| Integrações | SAP, API da OpenAI, Power BI |
 | Testes e CI/CD | pytest, GitHub Actions, Docker |
 | Operação | Git, Linux, Zabbix, Grafana, Loki |
 
